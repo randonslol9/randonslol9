@@ -1,7 +1,7 @@
 ### Oi 👋
 
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIP.
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: @randonslol
